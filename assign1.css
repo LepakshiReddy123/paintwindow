@@ -1,0 +1,88 @@
+body{
+    width: 100%;
+    height: 100%;
+}
+
+.row{
+    width: 98%;
+    height: 650px;
+    border: 3px solid black;
+    display: flex;
+    
+}
+.box1{
+    width: 20%;
+    height: 99%;
+    margin: 4px;
+    background-color: blue;
+}
+.box2{
+    width: 60%;
+    height: 99%;
+    margin: 4px;
+    background-color:tomato;
+    border: 2px black;
+}
+.box3{
+    width: 20%;
+    height: 99%;
+    margin: 4px;
+    background-color: chocolate;
+}
+.child1{
+    width:93%;
+    height: 57%;
+    border: 2px solid black;
+    background-color: crimson;
+    margin-left: 8px;
+    margin-top: 6px;
+   
+    
+
+}
+.child2{
+    width: 93%;
+    height: 39%;
+    border: 2px solid black;
+    background-color: yellow;
+    margin-left: 6px;
+    margin-top: 6px;
+    margin-bottom: 8px;
+
+}
+.child3{
+    width: 97%;
+    height:35%;
+    background-color: chartreuse;
+    margin-top:8px;
+    margin-left: 8px;
+    border: 2px solid black;
+}
+.child4{
+    width:97%;
+    height:60%;
+    border: 2px solid black;
+    background-color: crimson;
+    margin-left: 8px;
+    margin-top: 8px;
+    margin-bottom: 6px;
+}
+.child5{
+    width:93%;
+    height: 57%;
+    border: 2px solid black;
+    background-color:darkmagenta;
+    margin-left: 8px;
+    margin-top: 6px;
+    margin-right: 8px;
+    margin-bottom: 8px;
+}
+.child6{
+    width: 93%;
+    height: 39%;
+    border: 2px solid black;
+    background-color: sienna;
+    margin-left: 8px;
+    margin-right: 8px;
+    margin-bottom: 8px;
+}
